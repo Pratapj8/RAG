@@ -1,3 +1,4 @@
+![Alt text](RAG.png)
 
 ---
 
